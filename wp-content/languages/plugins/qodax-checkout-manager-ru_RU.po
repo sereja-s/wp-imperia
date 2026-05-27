@@ -1,0 +1,88 @@
+# Translation of Plugins - WooCommerce Checkout Fields Editor (Checkout Manager) - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - WooCommerce Checkout Fields Editor (Checkout Manager) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-06-05 19:37:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WooCommerce Checkout Fields Editor (Checkout Manager) - Stable (latest release)\n"
+
+#: views/deactivation_form.php:45
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: views/deactivation_form.php:44
+msgid "Cancel"
+msgstr "Отмена"
+
+#: views/deactivation_form.php:42
+msgid "Skip and deactivate"
+msgstr "Пропустить и деактивировать"
+
+#: views/deactivation_form.php:38
+msgid "Deactivation details"
+msgstr "Детали деактивации"
+
+#: views/deactivation_form.php:35
+msgid "Please describe the deactivation details?"
+msgstr "Опишите детали деактивации?"
+
+#: views/deactivation_form.php:22
+msgid "Please, take 30 seconds to tell us what brought you to this decision."
+msgstr "Пожалуйста, потратьте 30 секунд на то, чтобы рассказать нам, что привело Вас к такому решению."
+
+#: views/deactivation_form.php:19
+msgid "You are deactivating the Qodax Checkout Manager plugin"
+msgstr "Вы деактивируете плагин Qodax Checkout Manager"
+
+#: views/deactivation_form.php:12
+msgid "Other"
+msgstr "Прочее"
+
+#: views/deactivation_form.php:11
+msgid "This is a temporary deactivation"
+msgstr "Это временная деактивация"
+
+#: views/deactivation_form.php:10
+msgid "The plugin doesn't have the functionality I need"
+msgstr "Плагин не обладает необходимой мне функциональностью"
+
+#: views/deactivation_form.php:9
+msgid "I found another plugin"
+msgstr "Я нашел другой плагин"
+
+#: views/deactivation_form.php:8
+msgid "The plugin stopped working"
+msgstr "Плагин перестал работать"
+
+#: views/deactivation_form.php:7
+msgid "I'm having trouble setting it up"
+msgstr "У меня возникли проблемы с настройкой"
+
+#: src/Modules/OptionsPage.php:46
+msgid "Settings"
+msgstr "Настройки"
+
+#. Description of the plugin
+#: qodax-checkout-manager.php
+msgid "Customize and manage checkout fields in your WooCommerce store with a simple and user-friendly interface."
+msgstr "Настраивайте поля оформления заказа и управляйте ими в своем магазине WooCommerce с помощью простого и удобного интерфейса."
+
+#. Author of the plugin
+#: qodax-checkout-manager.php
+msgid "kirillbdev"
+msgstr "kirillbdev"
+
+#. Plugin URI of the plugin
+#: qodax-checkout-manager.php
+msgid "https://kirillbdev.pro/qodax-checkout-manager?utm_source=plugin&utm_medium=referal"
+msgstr "https://kirillbdev.pro/qodax-checkout-manager?utm_source=plugin&utm_medium=referal"
+
+#. Plugin Name of the plugin
+#: qodax-checkout-manager.php
+msgid "Qodax Checkout Manager"
+msgstr "Qodax Checkout Manager"

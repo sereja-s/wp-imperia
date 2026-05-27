@@ -1,0 +1,62 @@
+Warning: Trying to access array offset on true in D:\OSPanel\home\imperia.local\wp-content\plugins\all-in-one-seo-pack-pro\app\Common\Admin\Notices\WpNotices.php on line 265
+
+WooCommerce обнаружил, что некоторые активные плагины несовместимы с активированными на данный момент функциями WooCommerce.
+
+The following addons cannot be used, because they require All in One SEO Pro 4.8.1 or later to work:
+AIOSEO - Local Business
+
+https://imperia.local/wp-admin/plugin-install.php   Извините, вам не разрешено просматривать эту страницу.
+
+============================================================================================= было--->>>
+
+[xdebug]
+
+; xdebug.cli_color                     = 0                      ; Use ANSI colors in CLI Xdebug output (0=Auto,1=On,2=Off in older versions; now 0/1).
+; xdebug.client_discovery_header       = "HTTP_X_FORWARDED_FOR,REMOTE_ADDR"  ; Comma-separated headers used to auto-discover client IP (e.g., 'HTTP_X_FORWARDED_FOR').
+; xdebug.client_host                   = "localhost"            ; Debugger client host (IDE) to connect to for debugging/profiling.
+; xdebug.client_port                   = 9003                   ; Debugger client port (default 9003).
+; xdebug.cloud_id                      =                        ; Xdebug Cloud ID to use cloud debugging service.
+; xdebug.collect_assignments           = Off                    ; Collect variable assignments in traces (On/Off).
+; xdebug.collect_return                = Off                    ; Collect function return values in traces (On/Off).
+; xdebug.connect_timeout_ms            = 200                    ; Timeout (ms) for establishing debugging connection.
+; xdebug.discover_client_host          = Off                    ; Discover client host via HTTP headers (On/Off).
+; xdebug.dump.COOKIE                   =                        ; Superglobal keys from $_COOKIE to dump on error (CSV or '*' for all).
+; xdebug.dump.ENV                      =                        ; $_ENV keys to dump on error.
+; xdebug.dump.FILES                    =                        ; $_FILES keys to dump on error.
+; xdebug.dump.GET                      =                        ; $_GET keys to dump on error.
+; xdebug.dump.POST                     =                        ; $_POST keys to dump on error.
+; xdebug.dump.REQUEST                  =                        ; $_REQUEST keys to dump on error.
+; xdebug.dump.SERVER                   =                        ; $_SERVER keys to dump on error.
+; xdebug.dump.SESSION                  =                        ; $_SESSION keys to dump on error.
+; xdebug.dump_globals                  = On                     ; Dump selected superglobals on error (On/Off).
+; xdebug.dump_once                     = On                     ; Only dump superglobals once per request (On/Off).
+; xdebug.dump_undefined                = Off                    ; Show values for undefined keys when dumping (On/Off).
+; xdebug.file_link_format              =                        ; IDE link template for stack traces (e.g., 'phpstorm://open?file=%f&line=%l').
+; xdebug.filename_format               =                        ; Format for filenames displayed (e.g., full path vs basename).
+; xdebug.force_display_errors          = Off                    ; Force display_errors=On when Xdebug reports errors (On/Off).
+; xdebug.force_error_reporting         = 0                      ; Force error_reporting to at least this bitmask while Xdebug is active.
+; xdebug.gc_stats_output_name          = "gcstats.%p"           ; Filename pattern for GC stats files (supports %p for PID).
+; xdebug.halt_level                    = 0                      ; Error levels that trigger request halt (bitmask).
+; xdebug.idekey                        =                        ; IDE key identifying debugging session (e.g., 'PHPSTORM').
+xdebug.log                             = "{root_dir}/logs/{module_name}/xdebug.log"  ; Path to Xdebug communication log (for diagnostics).
+xdebug.log_level                       = 3                      ; Xdebug log verbosity. 0=Criticals,1=Errors,3=Warnings,5=Protocol messages,7=Info,10=Debug.
+xdebug.max_nesting_level               = 512                    ; Max function nesting depth before Xdebug aborts (protects against recursion).
+; xdebug.max_stack_frames              = -1                     ; Max stack frames to return to the client (-1 = unlimited).
+xdebug.mode                            = "develop"              ; Xdebug mode(s). CSV of: off,develop,debug,trace,profile,coverage,gcstats.
+xdebug.output_dir                      = "{root_dir}/temp/{module_name}/{profile_name}/xdebug"  ; Directory to write trace, profiler, and dump files.
+; xdebug.profiler_append               = Off                    ; Append to existing profiler file instead of overwriting (On/Off).
+; xdebug.profiler_output_name          = "cachegrind.out.%p"    ; Profiler file name pattern (e.g., 'cachegrind.out.%p').
+; xdebug.scream                        = Off                    ; Do not silence @-suppressed errors (On/Off).
+; xdebug.show_error_trace              = Off                    ; Show stack trace on PHP errors (On/Off).
+; xdebug.show_exception_trace          = Off                    ; Show stack trace on exceptions (On/Off).
+; xdebug.show_local_vars               = Off                    ; Show local variables in error stack traces (On/Off).
+; xdebug.start_upon_error              = "default"              ; Start debugger when an error occurs. Values: 'default','yes','no','trigger'.
+; xdebug.start_with_request            = "default"              ; Start debugger with each request. Values: 'default','yes','no','trigger'.
+; xdebug.trace_format                  = 0                      ; Trace file format. 0=normal,1=computer-readable,2=HTML (varies by version).
+; xdebug.trace_options                 = 0                      ; Trace options bitmask (e.g., include return values, memory usage).
+; xdebug.trace_output_name             = "trace.%c"             ; Trace filename pattern (supports %c for CRC32, %p for PID, etc.).
+; xdebug.trigger_value                 =                        ; Value required in trigger (cookie/GET/POST) to start debugging/trace when in 'trigger' mode.
+; xdebug.use_compression               = 1                      ; Use compression for DBGp protocol (1=On, 0=Off).
+; xdebug.var_display_max_children      = 128                    ; Max number of array/object children to display.
+; xdebug.var_display_max_data          = 512                    ; Max string data length to display.
+; xdebug.var_display_max_depth         = 3                      ; Max depth for nested arrays/objects when displaying variables.

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-05-18T13:48">
+<shop>
+<name></name>
+<url>https://imperia.local/</url>
+<platform>WordPress - YML for Yandex Market</platform>
+<version>6.9</version>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="15">Другое</category>
+<category id="615" parentId="126">Aлмазные шлифовальные диски</category>
+<category id="316" parentId="140">BIHUI Tools Инструмент для укладки плитки Бихуэй (бихуй)</category>
+<category id="389" parentId="347">DLT EXTRALINE PL30</category>
+<category id="479" parentId="477">P120-150</category>
+<category id="513" parentId="477">P180-220</category>
+<category id="486" parentId="477">P240-320</category>
+<category id="487" parentId="477">P40-60</category>
+<category id="478" parentId="477">P80-100</category>
+<category id="212" parentId="211">Абразивные материалы</category>
+<category id="503">Абразивные материалы</category>
+<category id="467" parentId="466">Абразивные материалы для шлифовальных машин</category>
+<category id="278" parentId="160">АГШК #100</category>
+<category id="197" parentId="160">АГШК #200</category>
+<category id="198" parentId="160">АГШК #400</category>
+<category id="193" parentId="160">АГШК #50-60</category>
+<category id="220" parentId="200">Адаптеры и аксессуары</category>
+<category id="506">Аккумуляторные гвоздезабивные пистолеты</category>
+<category id="192" parentId="160">Аксессуары</category>
+<category id="530" parentId="356">Аксессуары</category>
+<category id="182" parentId="126">Аксессуары для алмазных коронок</category>
+<category id="265" parentId="127">Аксессуары для алмазных коронок</category>
+<category id="524" parentId="515">Аксессуары для окрасочных аппаратов</category>
+<category id="284" parentId="31">Аксессуары для ручных плиткорезов</category>
+<category id="472" parentId="468">Аксессуары для ручных плиткорезов</category>
+<category id="128">Аксессуары к нивелирам</category>
+<category id="483" parentId="466">Аксессуары шлифмашин</category>
+<category id="183">Акции на строительный инструмент</category>
+<category id="126">Алмазная оснастка</category>
+<category id="168" parentId="126">Алмазные диски</category>
+<category id="321" parentId="168">Алмазные диски для гравера</category>
+<category id="184" parentId="168">Алмазные диски для заусовки плитки под 45°</category>
+<category id="354" parentId="168">Алмазные диски для скругления и ступеней</category>
+<category id="169" parentId="168">Алмазные диски для электрических плиткорезов</category>
+<category id="310" parentId="168">Алмазные диски по бетону/железобетону</category>
+<category id="240" parentId="168">Алмазные диски по керамике/керамограниту/граниту/мрамору</category>
+<category id="127" parentId="126">Алмазные коронки для плитки</category>
+<category id="372" parentId="127">Алмазные коронки по керамограниту (вакуумная пайка)</category>
+<category id="185" parentId="31">Алмазные притиры</category>
+<category id="507">Аппараты безвоздушной покраски</category>
+<category id="140">Бренды</category>
+<category id="343" parentId="211">Быстрозажимные струбцины</category>
+<category id="355" parentId="350">Бюгельные ручки</category>
+<category id="348" parentId="227">Валики для нанесения шпатлевки</category>
+<category id="350" parentId="211">Валики малярные</category>
+<category id="373" parentId="350">Валики с ручкой</category>
+<category id="199" parentId="31">Ведро плиточника</category>
+<category id="207" parentId="31">Вибрационные присоски</category>
+<category id="497">Все для малярных работ</category>
+<category id="133" parentId="132">Гвозди для монтажных пистолетов</category>
+<category id="159">Гибкие ведра и гибкие ёмкости</category>
+<category id="616">Гидроизоляционные материалы</category>
+<category id="339" parentId="227">Гладилки</category>
+<category id="423" parentId="31">Граверы и оснастка</category>
+<category id="512" parentId="511">Грунтовки</category>
+<category id="511">Грунтовки, герметики, пены и жидкие гвозди</category>
+<category id="234" parentId="31">Губки</category>
+<category id="332" parentId="211">Двери временные для малярных работ</category>
+<category id="536">Для жидких красок</category>
+<category id="170">Запчасти</category>
+<category id="534">Запчасти для HYVST SPT 490</category>
+<category id="498" parentId="497">Защитные материалы</category>
+<category id="228" parentId="227">Зубчатые шпатели (гребенки)</category>
+<category id="292" parentId="31">Инструмент для измерения и разметки</category>
+<category id="31">Инструмент для укладки плитки</category>
+<category id="455" parentId="227">Кельмы, мастерки</category>
+<category id="360" parentId="356">Кисти макловицы</category>
+<category id="356" parentId="211">Кисти малярные</category>
+<category id="474" parentId="211">Кисти малярные Аксессуары</category>
+<category id="459" parentId="211">Кисти малярные Плоские кисти</category>
+<category id="232" parentId="31">Киянки резиновые</category>
+<category id="496" parentId="495">Клеи</category>
+<category id="462" parentId="154">Кожухи для УШМ</category>
+<category id="200" parentId="31">Кожухи для УШМ/Пылеуловители/Кондукторы.</category>
+<category id="535">Комплектующие для окрасочного оборудования</category>
+<category id="210" parentId="127">Конусные алмазные фрезы</category>
+<category id="519" parentId="515">Краскопульты</category>
+<category id="538">Краскопульты</category>
+<category id="205" parentId="31">Крестики/клинья/подковы</category>
+<category id="160" parentId="31">Круг алмазный гибкий шлифовальный</category>
+<category id="521" parentId="520">Круги шлифовальные и насадки</category>
+<category id="191" parentId="31">Крупноформат</category>
+<category id="123">Лазерные нивелиры (лазерные уровни)</category>
+<category id="137" parentId="123">Лазерные нивелиры 3D</category>
+<category id="157" parentId="123">Лазерные нивелиры 4D</category>
+<category id="214">Лампы маляра</category>
+<category id="494" parentId="493">Ленты углозащитные и углоформирующие</category>
+<category id="493">Ленты, скотчи и пленки</category>
+<category id="369" parentId="211">Малярные ванночки и кюветы</category>
+<category id="456" parentId="211">Малярные ленты</category>
+<category id="374" parentId="211">Малярные наборы</category>
+<category id="231" parentId="227">Малярные шпателя</category>
+<category id="211">Малярный и штукатурный инструмент</category>
+<category id="522">Материалы для ремонта</category>
+<category id="315" parentId="31">Маяки для наливного пола</category>
+<category id="346" parentId="227">Многофункц. шпатели (скребки)</category>
+<category id="143" parentId="132">Монтажные гвоздезабивные пистолеты</category>
+<category id="132">Монтажные пистолеты</category>
+<category id="383" parentId="350">Наборы</category>
+<category id="139" parentId="127">Наборы алмазных коронок</category>
+<category id="365" parentId="356">Наборы кистей</category>
+<category id="282" parentId="252">Наборы шпателей</category>
+<category id="221">Наколенники строительные</category>
+<category id="333" parentId="211">Ножи малярные и лезвия к ним</category>
+<category id="501" parentId="500">Обои</category>
+<category id="617">Оборудование для нанесения штукатурки и шпаклевки</category>
+<category id="526">Оборудование для отделочных работ</category>
+<category id="215" parentId="140">Оборудование и приспособления для укладки плитки DLT</category>
+<category id="476">Общий и проявочный свет (лампы маляра)</category>
+<category id="190" parentId="161">Обычные присоски</category>
+<category id="515">Окрасочное оборудование</category>
+<category id="179">Окрасочные аппараты и аксессуары</category>
+<category id="539">Орбитальные</category>
+<category id="500" parentId="499">Отделочные материалы</category>
+<category id="490">Отделочные материалы для стен</category>
+<category id="267" parentId="127">Пальчиковые алмазные фрезы (шарошки)</category>
+<category id="510" parentId="509">Перфораторы</category>
+<category id="345" parentId="211">Пистолеты монтажные</category>
+<category id="376" parentId="211">Пленки укрывные</category>
+<category id="489" parentId="457">Плиткорезы BIHUI</category>
+<category id="469" parentId="468">Плиткорезы DLT</category>
+<category id="470" parentId="468">Плиткорезы RUBI</category>
+<category id="471" parentId="457">Плиткорезы SHIJING</category>
+<category id="468">Плиткорезы ручные</category>
+<category id="457">Плиткорезы электрические (камнерезы, мокрорезы)</category>
+<category id="357" parentId="356">Плоские малярные кисти</category>
+<category id="151">Подъемники для гипсокартона</category>
+<category id="178" parentId="161">Помповые присоски</category>
+<category id="508" parentId="507">Поршневые аппараты</category>
+<category id="613">Поршневые окрасочные аппараты</category>
+<category id="161" parentId="31">Присоски для плитки и стекла</category>
+<category id="358" parentId="357">Прямой срез</category>
+<category id="461" parentId="459">Прямой срез</category>
+<category id="347" parentId="170">Пылесосы</category>
+<category id="154">Пылесосы строительные</category>
+<category id="463" parentId="462">Пылеуловители</category>
+<category id="201" parentId="200">Пылеуловители для УШМ</category>
+<category id="187" parentId="185">Р100-120</category>
+<category id="188" parentId="185">Р200</category>
+<category id="189" parentId="185">Р300-400</category>
+<category id="186" parentId="185">Р50-60</category>
+<category id="410" parentId="31">Разделительные гидроизоляционные мембраны</category>
+<category id="233" parentId="31">Разное для укладки</category>
+<category id="473" parentId="472">Резцы</category>
+<category id="148">Рекламная продукция (мерч)</category>
+<category id="286" parentId="31">Сепараторы (разделитель плитки)</category>
+<category id="269" parentId="161">Системы стягивания и фиксации</category>
+<category id="520">СМиТ</category>
+<category id="540">Сопла</category>
+<category id="516" parentId="515">Сопла высокого давления</category>
+<category id="431" parentId="179">Сопла для окрасочных аппаратов</category>
+<category id="504">Сопла, форсунки, шланги</category>
+<category id="542">Соплодержатели</category>
+<category id="523" parentId="522">Стеклохолст</category>
+<category id="502" parentId="501">Стеклохолсты</category>
+<category id="131" parentId="31">Строительные маркеры и карандаши</category>
+<category id="499">Строительные материалы</category>
+<category id="245" parentId="154">Строительные пылесосы</category>
+<category id="158" parentId="31">Строительные столы, верстаки, подстолья</category>
+<category id="495">Стройматериалы</category>
+<category id="491">Сухие строительные смеси</category>
+<category id="481" parentId="211">Телескопические удлинители</category>
+<category id="224" parentId="211">Тёрки для отделочных работ</category>
+<category id="460" parentId="459">Угловой срез</category>
+<category id="531" parentId="357">Угловой срез</category>
+<category id="330" parentId="31">Уголки для фиксации плитки</category>
+<category id="525" parentId="524">Удлинители краскораспылителя (удочки)</category>
+<category id="505" parentId="504">Удочки, валики, вертлюги</category>
+<category id="518" parentId="516">Удочки, валики, вертлюги</category>
+<category id="328" parentId="168">Универсальные диски</category>
+<category id="138" parentId="31">Уровни строительные</category>
+<category id="309" parentId="227">Фасадные шпателя</category>
+<category id="366" parentId="356">Фигурные кисти</category>
+<category id="537">Фильтры</category>
+<category id="251" parentId="154">Фильтры и мешки-пылесборники</category>
+<category id="237" parentId="168">Чашки алмазные шлифовальные (алмазные фрезы)</category>
+<category id="235" parentId="31">Шаблоны строительные</category>
+<category id="541">Шланги</category>
+<category id="527" parentId="526">Шланги высокого давления</category>
+<category id="517" parentId="516">Шланги окрасочные для безвоздушных аппаратов</category>
+<category id="485" parentId="466">Шлифмашины Жираф</category>
+<category id="484" parentId="466">Шлифмашины ручные</category>
+<category id="381" parentId="212">Шлифовальные блоки и шайбы/наборы</category>
+<category id="529" parentId="528">Шлифовальные блоки, губки</category>
+<category id="477" parentId="466">Шлифовальные круги и сетки</category>
+<category id="514" parentId="466">Шлифовальные круги и сетки P120-150</category>
+<category id="466">Шлифовальные машины для стен, потолков и пола</category>
+<category id="528">Шлифование и сверление</category>
+<category id="492" parentId="491">Шпаклевки</category>
+<category id="167" parentId="31">Шпатели для силикона и герметика</category>
+<category id="236" parentId="167">Шпатели и насадки</category>
+<category id="465" parentId="252">Шпатели с лезвием 0.3 мм + 0.5 мм</category>
+<category id="464" parentId="252">Шпатели с лезвием 0.3мм + 0.5мм + 0.7мм</category>
+<category id="252" parentId="227">Шпателя для механизированного нанесения</category>
+<category id="227">Шпателя для механизированной шпатлевки</category>
+<category id="371" parentId="211">Штукатурные соколы</category>
+<category id="382" parentId="350">Шубки (ролики)</category>
+<category id="458" parentId="457">Электрические плиткорезы DLT</category>
+<category id="488" parentId="457">Электрические плиткорезы для крупноформатной плитки</category>
+<category id="299" parentId="161">Электрические присоски и поршни</category>
+<category id="509">Электроинструмент</category>
+<category id="147">Электроинструмент для плиточных и малярных работ</category>
+<category id="254">Ящики для инструмента/Модульные системы</category>
+</categories>
+<offers>
+<offer id="26244" available="true">
+<currencyId>RUR</currencyId>
+<price>5580</price>
+<name>SCH-X600 Краскораспылитель безвоздушный прямой, 350 бар,1/4"NPSM, 7/8"</name>
+<description><![CDATA[<p>*SCH-X600 Краскораcпылитель безвоздушный, прямой, 350 бар, 1/4″ NPSM, 7/8″</p>]]></description>
+<picture>https://imperia.local/wp-content/uploads/2026/04/ap91.webp</picture>
+<picture>https://imperia.local/wp-content/uploads/2026/04/ap92.webp</picture>
+<picture>https://imperia.local/wp-content/uploads/2026/04/ap93.webp</picture>
+<picture>https://imperia.local/wp-content/uploads/2026/04/ap94.webp</picture>
+<url>https://imperia.local/product/sch-x600-kraskoraspylitel-bezvozdushnyj-pryamoj-350-bar-1-4-npsm-7-8/</url>
+<store>true</store>
+<delivery>false</delivery>
+<categoryId>538</categoryId>
+</offer>
+<offer id="26186" available="true">
+<currencyId>RUR</currencyId>
+<price>444000</price>
+<name>Штукатурная станция Schtaer SPA-25 220/380 В</name>
+<description><![CDATA[<p>Schtaer SPA-25 – штукатурная станция высокого давления, предназначенная для непрерывного смешивания и нанесения строительных растворов. Использование штукатурной станции значительно упрощает и автоматизирует трудоемкий процесс отделки стен как внутри, так и снаружи помещений. Встроенный водяной насос позволяет получать воду непосредственно из бочки, что особенно полезно в условиях, где отсутствует доступ к водопроводной системе.</p><p>Насос способен перекачивать сухие гипсовые, известковые, цементные штукатурки, клеевые смеси, изоляционные штукатурные составы, растворы для кладки, составы для заливки швов, щелей, жидкие шпатлевки, герметики, наливные полы, стяжки пола, армирующие смеси, клеевые составы краски, пастообразные составы и другие материалы с фракцией до 5 мм.</p><p>Позволяет штукатурить по 130м2 в смену. Простая в обслуживании, лёгкая в управлении, оснащена доступными расходниками и комплектующими.</p><p>Преимущества:</p><p>•    качественное и равномерное покрытие;<br />•    высокая скорость и эффективность;<br />•    наносит гипсовую и цементно-песчаную смесь;<br />•    съемный мотор и решетка для легкой очистки бункера;<br />•    бункер емкостью 145 л;<br />•    работает от сети 380V;<br />•    встроенный водяной насос;<br />•    разборка на 4 части;<br />•    помещается в маленький не грузовой лифт;<br />•    оснащена датчиком сухого хода;<br />•    удобство при переноске и использовании;<br />•    разнообразие видов наносимых материалов.</p><p> </p><p>При покупке уточняйте у поставщика полный перечень комплектации, так как он может зависеть от:</p>конкретной партии оборудования;<br/>политики производителя или дистрибьютора;<br/>дополнительных опций, выбранных при заказе.<br/><p> </p><p>Гарантия</p><p>Гарантия на отсутствие заводского брака составляет 12 месяцев. Осуществляется гарантийный и послегарантийный ремонт, поставка запасных частей и комплектующих.</p>]]></description>
+<picture>https://imperia.local/wp-content/uploads/2026/04/SPA-25-2.webp</picture>
+<url>https://imperia.local/product/shtukaturnaya-stantsiya-schtaer-spa-25-220-380-v/</url>
+<store>true</store>
+<delivery>false</delivery>
+<categoryId>617</categoryId>
+</offer>
+<offer id="24473" available="true">
+<currencyId>RUR</currencyId>
+<price>37570</price>
+<oldprice>44200</oldprice>
+<name>Переноска крупноформатного керамогранита DLT Auto mini</name>
+<description><![CDATA[<p>Система переноски крупноформатного керамогранита DLT специально разработана для подъёма, перемещения и укладки плитки.</p><p>Переноска оснащена четырьмя вакуумными 8 дюймовыми электрическими присосками DLT с АВТО подкачкой для гладкой и структурной плитки (работают даже на агрессивном рельефе) в белом цвете основания чаши что предотвращает возможное появление черных пятен на используемой поверхности. Присоски имеют встроенный электрический насос, датчик давления (анализирует силу разрежения воздуха и автоматически включает насос, когда требуется восстановить необходимые параметры вакуума) и манометр давления для визуального контроля. Каждая присоска может удержать груз до 150кг. Положение присосок регулируется, что позволяет пользователю установить их так, чтобы максимально безопасно и удобно манипулировать заготовкой. Эта система «два в одном»: присоски снимаются и ими можно пользоваться отдельно для ручной переноски и укладки плитки.</p><p>Переноска состоит из двух профилей 40х40 мм из экструдированного алюминия длиной 180см. Удобен для переноски плит небольшой ширины.</p><p>Система имеет 4 рукоятки положение которых возможно изменять по всей длине профиля, адаптируя переноску DLT под формат и форму керамогранита большого формата.</p><p>Вес одного продольного профиля в сборе с присосками составляет 13.5 кг.</p>]]></description>
+<picture>https://imperia.local/wp-content/uploads/2025/05/perenoska_krupnoformatnogo_keramogranita_dlt_auto_mini.jpg</picture>
+<url>https://imperia.local/product/perenoska-krupnoformatnogo-keramogranita-dlt-auto-mini/</url>
+<store>true</store>
+<delivery>false</delivery>
+<categoryId>183</categoryId>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

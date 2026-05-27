@@ -1,0 +1,14 @@
+{
+    "name": "codeixer/wpgs",
+    "type": "woocommerce-plugin",
+    "license": "GPL v2",
+    "authors": [
+        {
+            "name": "Codeixer",
+            "email": "codeixer@gmail.com"
+        }
+    ],
+    "require": {
+        "wptrt/admin-notices": "^1.0"
+    }
+}

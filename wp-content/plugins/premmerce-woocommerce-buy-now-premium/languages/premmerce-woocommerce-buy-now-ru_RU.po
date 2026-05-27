@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: premmerce-woocommerce-oneclickorder\n"
+"POT-Creation-Date: 2018-08-21 14:55+0300\n"
+"PO-Revision-Date: 2018-08-21 14:55+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: build\n"
+
+#: src/Admin/Admin.php:70 src/Admin/Admin.php:71 src/Frontend/Frontend.php:96
+#: views/admin/main.php:9 views/frontend/oneclickorder-btn.php:13
+#: views/frontend/oneclickorder-popup.php:12
+msgid "Buy now"
+msgstr "Заказать в один клик"
+
+#: src/Admin/Admin.php:105
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: src/Frontend/Frontend.php:130 views/admin/main.php:32
+msgid "Name"
+msgstr "Имя"
+
+#: src/Frontend/Frontend.php:133 views/admin/main.php:43
+msgid "E-mail"
+msgstr "E-mail"
+
+#: src/Frontend/Frontend.php:136 views/admin/main.php:54
+msgid "Phone number"
+msgstr "Номер телефона"
+
+#: src/Frontend/Frontend.php:139 views/admin/main.php:65
+msgid "Comment"
+msgstr "Комментарий"
+
+#: src/OneClickOrderPlugin.php:93
+#, php-format
+msgid "The %s plugin requires %s plugin to be active!"
+msgstr "Для работы плагина %s нужен плагин %s"
+
+#: views/admin/main.php:21
+msgid "Product archive"
+msgstr " Cтраница каталога"
+
+#: views/admin/main.php:26
+msgid "Display on product archive"
+msgstr "Показывать кнопку на странице каталога"
+
+#: views/admin/main.php:37
+msgid "Customer name"
+msgstr "Имя покупателя"
+
+#: views/admin/main.php:48
+msgid "Customer e-mail"
+msgstr "E-mail покупателя"
+
+#: views/admin/main.php:59
+msgid "Customer phone number"
+msgstr "Номер телефона покупателя"
+
+#: views/admin/main.php:70
+msgid "Comment to order"
+msgstr "Комментарий к заказу"
+
+#: views/admin/main.php:82
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: views/frontend/oneclickorder-popup.php:29
+msgid "Order was created"
+msgstr "Заказ создан"
+
+#: views/frontend/oneclickorder-popup.php:42
+msgid "Your name"
+msgstr "Ваше имя"
+
+#: views/frontend/oneclickorder-popup.php:53
+msgid "Your E-mail"
+msgstr "Ваш E-mail"
+
+#: views/frontend/oneclickorder-popup.php:64
+msgid "Your phone number"
+msgstr "Ваш номер телефона"
+
+#: views/frontend/oneclickorder-popup.php:75
+msgid "Your comment"
+msgstr "Ваш комментарий"
+
+#: views/frontend/oneclickorder-popup.php:87
+msgid "Close"
+msgstr "Закрыть"
+
+#: views/frontend/oneclickorder-popup.php:93
+msgid "Place order"
+msgstr "Подтвердить заказ"
+
+#~ msgid "Order created"
+#~ msgstr "Заказ создан"
+
+#~ msgid "Add"
+#~ msgstr "Создать"
+
+#~ msgid "Display on archive product"
+#~ msgstr "Показывать кнопку на странице каталога"
+
+#~ msgid "One click order"
+#~ msgstr "Заказать в один клик"

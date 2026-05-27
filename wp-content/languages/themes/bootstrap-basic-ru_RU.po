@@ -1,0 +1,444 @@
+# Translation of Themes - Bootstrap Basic in Russian
+# This file is distributed under the same license as the Themes - Bootstrap Basic package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-04-07 18:50:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Bootstrap Basic\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Bootstrap v.3 basic theme for developers to build their new theme very fast and easy. (WordPress 5 or Gutenberg ready.) The concept is to keep it basic, no rich features, no additional functions; all of these for theme developers will be easier to start develop their theme. Please read notice on Bootstrap Basic Help page in Dashboard > Appearance > Bootstrap Basic Help."
+msgstr "Bootstrap v.3 - базовая тема для разработчиков, позволяющая быстро и легко создавать новые темы. (Поддерживает WordPress 5 и Gutenberg.) Концепция заключается в том, чтобы сохранить базовые функции, без дополнительных возможностей; все это упростит разработчикам тем начало работы над своими темами. Пожалуйста, ознакомьтесь с информацией на странице справки Bootstrap Basic в разделе «Консоль» > «Внешний вид» > «Справка Bootstrap Basic»."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Bootstrap Basic"
+msgstr "Bootstrap Basic"
+
+#: inc/views/BootstrapBasicAdminHelp_v.php:51
+msgid "Responsive video"
+msgstr "Адаптивное видео"
+
+#. translators: %1$s Open link, %2$s Close link.
+#: inc/views/BootstrapBasicAdminHelp_v.php:78
+msgid "Thank you for using Bootstrap Basic. Please %1$sdonate%2$s to support the developer."
+msgstr "Благодарим вас за использование Bootstrap Basic. %1$s Пожертвуйте %2$s для поддержки разработчика."
+
+#. translators: %1$s dropdown header CSS class, %2$s the word CSS classes
+#: inc/views/BootstrapBasicAdminHelp_v.php:26
+msgid "To display dropdown header, add %1$s class to the menu's %2$s."
+msgstr "Для отображения выпадающего списка заголовков добавьте класс %1$s к элементу %2$s меню."
+
+#: inc/views/BootstrapBasicAdminHelp_v.php:22
+msgid "Dropdown header"
+msgstr "Выпадающий заголовок"
+
+#: inc/views/BootstrapBasicAdminHelp_v.php:19
+#: inc/views/BootstrapBasicAdminHelp_v.php:28
+msgid "CSS Classes"
+msgstr "CSS классы"
+
+#. translators: %1$s divider CSS class, %2$s the word CSS classes
+#: inc/views/BootstrapBasicAdminHelp_v.php:17
+msgid "To display dropdown divier, add %1$s class to the menu's %2$s."
+msgstr "Для отображения раскрывающегося меню, добавьте класс %1$s к элементу %2$s меню."
+
+#: inc/views/BootstrapBasicAdminHelp_v.php:13
+msgid "Divider"
+msgstr "Разделитель"
+
+#. translators: %1$s sample of responsive video HTML with class.
+#: inc/views/BootstrapBasicAdminHelp_v.php:55
+msgid "Cloak video element (video element or embeded video) with %1$s."
+msgstr "Скрыть видеоэлемент (видеоэлемент или встроенное видео) с помощью %1$s."
+
+#. translators: %1$s sample of responsive image HTML with class.
+#: inc/views/BootstrapBasicAdminHelp_v.php:46
+msgid "For responsive image please add img-responsive class to img element. Example: %1$s"
+msgstr "Для адаптивного изображения добавьте класс img-responsive к элементу img. Пример: %1$s"
+
+#: inc/views/BootstrapBasicAdminHelp_v.php:42
+msgid "Responsive image"
+msgstr "Адаптивное изображение"
+
+#. translators: $1$s open link to Bootstrap doc, %2$s close link.
+#: inc/views/BootstrapBasicAdminHelp_v.php:36
+msgid "This theme can use all %1$sBootstrap 3%2$s classes, elements and styles."
+msgstr "Эта тема может использовать все классы, элементы и стили %1$sBootstrap 3%2$s."
+
+#: inc/views/BootstrapBasicAdminHelp_v.php:32
+msgid "Bootstrap features"
+msgstr "Функции Bootstrap"
+
+#: inc/views/BootstrapBasicAdminHelp_v.php:12
+msgid "To display menu correctly, please create at least 1 menu and set as primary and save."
+msgstr "Для корректного отображения меню, создайте хотя бы 1 меню, установите его как основное и сохраните."
+
+#: inc/views/BootstrapBasicAdminHelp_v.php:11
+msgid "Menu"
+msgstr "Меню"
+
+#: inc/widgets/BootstrapBasicLegacySearchWidget.php:51
+msgid "Title:"
+msgstr "Название:"
+
+#: inc/widgets/BootstrapBasicLegacySearchWidget.php:31
+msgid "Display Search widget for Bootstrap that can be use in sidebar."
+msgstr "Виджет Отображение поиска для Bootstrap, который можно использовать в боковой панели."
+
+#: inc/widgets/BootstrapBasicLegacySearchWidget.php:30
+msgid "Bootstrap Legacy Search"
+msgstr "Устаревший поиск Bootstrap"
+
+#: inc/views/BootstrapBasicAdminHelp_v.php:69
+msgid "You can also see it on changelog.md file that come with the theme."
+msgstr "Вы также можете увидеть это в файле changelog.md, который поставляется вместе с темой."
+
+#. translators: %1$s: Open link, %2$s: Close link.
+#: inc/views/BootstrapBasicAdminHelp_v.php:65
+msgid "You can see what was changed in each version or each commits on our %1$sGithub page%2$s."
+msgstr "Вы можете посмотреть, что было изменено в каждой версии или в каждом коммите на нашей странице %1$sGithub%2$s."
+
+#: inc/views/BootstrapBasicAdminHelp_v.php:60
+msgid "Bootstrap Basic Change log"
+msgstr "Журнал базовых изменений Bootstrap"
+
+#: functions.php:122
+msgid "Header widget area on the right side next to site title."
+msgstr "Область виджета заголовка справа рядом с названием сайта."
+
+#: comments.php:131
+msgid "Comment"
+msgstr "Комментарий"
+
+#: inc/BootstrapBasicAdminHelp.php:22 inc/views/BootstrapBasicAdminHelp_v.php:9
+msgid "Bootstrap Basic help"
+msgstr "Базовая справка по Bootstrap"
+
+#: searchform.php:37
+msgctxt "label"
+msgid "Search for"
+msgstr "Поиск по"
+
+#. translators: %s Search value.
+#: search.php:25
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: no-results.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#. translators: %1$s: Link to add new post.
+#: no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: searchform.php:33 searchform.php:39
+msgctxt "label"
+msgid "Search for:"
+msgstr "Найти:"
+
+#: inc/widgets/BootstrapBasicSearchWidget.php:56
+msgid "Right"
+msgstr "Справа"
+
+#: inc/widgets/BootstrapBasicSearchWidget.php:55
+msgid "Left"
+msgstr "Слева"
+
+#: inc/widgets/BootstrapBasicSearchWidget.php:53
+msgid "Form alignment:"
+msgstr "Выравнивание формы:"
+
+#: inc/widgets/BootstrapBasicSearchWidget.php:31
+msgid "Display Search widget for Bootstrap navbar."
+msgstr "Отображение виджета Поиск для навигационной панели Bootstrap."
+
+#: inc/widgets/BootstrapBasicSearchWidget.php:30
+msgid "Bootstrap Navbar Search"
+msgstr "Bootstrap поиск в панели навигации"
+
+#: inc/template-tags.php:306
+msgid "Tagged"
+msgstr "Метки:"
+
+#. translators: %s Author name.
+#: inc/template-tags.php:288
+msgid "View all posts by %s"
+msgstr "Посмотреть все записи автора %s"
+
+#. translators: %1$s: Link to post with date/time text, %2$s: Link to author
+#. with auth name.
+#: inc/template-tags.php:279
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">Опубликовано %1$s</span><span class=\"byline\"> автором %2$s</span>"
+
+#: inc/template-tags.php:202
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:116
+msgid "Log in to Reply"
+msgstr "Войдите, чтобы ответить"
+
+#: inc/template-tags.php:115
+msgid "Reply"
+msgstr "Ответить"
+
+#. translators: %s: Comment author link.
+#: inc/template-tags.php:102
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">говорит:</span>"
+
+#: inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#. translators: %1$s: Comment date, %2$s: Comment time.
+#: inc/template-tags.php:80
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: inc/template-tags.php:44 inc/template-tags.php:88 inc/template-tags.php:151
+msgid "Edit"
+msgstr "Изменить"
+
+#: inc/template-tags.php:42
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: inc/template-tags.php:20
+msgid "Posted in"
+msgstr "Опубликовано в"
+
+#. translators: %s: Page number.
+#: inc/extras.php:160
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: image.php:48
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следующая <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:47
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущая"
+
+#. translators: %1$s: Date/time in datetime attribute, %2$s: Readable
+#. date/time, %3$s: URL, %4$s: Attachment width, %5$s: Attachment height, %6$s:
+#. Link to post parent, %7$s: Post parent title in the title attribute, %8$s:
+#. Post parent title.
+#: image.php:28
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr "Опубликовано <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span>  <a href=\"%3$s\" title=\"Link zum Originalbild\">%4$s &times; %5$s</a> в <a href=\"%6$s\" title=\"Zurück zu %7$s\" rel=\"gallery\">%8$s</a>"
+
+#: header.php:70
+msgid "Toggle navigation"
+msgstr "Показать/Скрыть навигацию"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:148
+msgid "Footer right"
+msgstr "Правый подвал"
+
+#: functions.php:139
+msgid "Footer left"
+msgstr "Левый подвал"
+
+#: functions.php:102
+msgid "Sidebar right"
+msgstr "Правый сайдбар"
+
+#: functions.php:111
+msgid "Sidebar left"
+msgstr "Левый сайдбар"
+
+#: functions.php:130
+msgid "Navigation bar right"
+msgstr "Левый заголовок"
+
+#: functions.php:120
+msgid "Header right"
+msgstr "Правый заголовок"
+
+#: functions.php:59
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#. translators: %s Bootstrap Basic with link.
+#: footer.php:21
+msgid "Theme: %s"
+msgstr "Тема: %s"
+
+#. translators: %s WordPress with link.
+#: footer.php:18
+msgid "Powered by %s"
+msgstr "Работает на %s"
+
+#. translators: %1$s URL, %2$s: Post title.
+#: content-single.php:50
+msgid "<span class=\"glyphicon glyphicon-link\"></span> <a href=\"%1$s\" title=\"Permalink to %2$s\" rel=\"bookmark\">permalink</a>."
+msgstr "<span class=\"glyphicon glyphicon-link\"></span> <a href=\"%1$s\" title=\"Постоянная ссылка на %2$s\" rel=\"bookmark\">постоянная ссылка</a>."
+
+#. translators: used between list items, there is a space after the comma
+#: content-aside.php:35 content-aside.php:45 content-link.php:45
+#: content-link.php:55 content-quote.php:32 content-quote.php:42
+#: content-single.php:37 content-single.php:40 content.php:50 content.php:60
+msgid ", "
+msgstr ", "
+
+#: content-aside.php:20 content-link.php:32 content-page.php:22
+#: content-quote.php:20 content-single.php:27 content.php:36
+msgid "Pages:"
+msgstr "Страниц:"
+
+#. translators: %s Allowed HTML tags for comment.
+#: comments.php:138
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr "Можно использовать следующие <abbr title=\"HyperText Markup Language\">HTML</abbr>-теги и атрибуты: %s"
+
+#: comments.php:124
+msgid "Website"
+msgstr "Сайт"
+
+#: comments.php:118
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:112
+msgid "Name"
+msgstr "Имя"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:43 comments.php:64
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии &rarr;"
+
+#: comments.php:42 comments.php:63
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#. translators: %1$s: Number of comments, %2$s: Post title.
+#: comments.php:25
+msgctxt "comments title"
+msgid "%1$s comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#: archive.php:74
+msgid "Archives"
+msgstr "Архивы"
+
+#: archive.php:71
+msgid "Links"
+msgstr "Ссылки"
+
+#: archive.php:68
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: archive.php:65
+msgid "Videos"
+msgstr "Видео"
+
+#: archive.php:62
+msgid "Images"
+msgstr "Изображения"
+
+#: archive.php:59
+msgid "Asides"
+msgstr "Заметки"
+
+#. translators: %s Year value.
+#: archive.php:56
+msgid "Year: %s"
+msgstr "Год: %s"
+
+#. translators: %s Month value.
+#: archive.php:52
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#. translators: %s Date value.
+#: archive.php:48
+msgid "Day: %s"
+msgstr "День: %s"
+
+#. translators: %s Author name.
+#: archive.php:38
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:53
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Загляните в архивы по месяцам %1$s"
+
+#: 404.php:35
+msgid "Most Used Categories"
+msgstr "Часто используемые рубрики"
+
+#: searchform.php:35 searchform.php:41
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:33 searchform.php:39
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск&hellip;"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться одной из ссылок ниже или поиском."
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://github.com/Rundiz-WP"
+msgstr "https://github.com/Rundiz-WP"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Rundiz-WP team"
+msgstr "Rundiz-WP team"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://rundiz.com"
+msgstr "https://rundiz.com"

@@ -1,0 +1,3 @@
+<?php return ['Y4YMP_Metaboxes' => 'D:\OSPanel\home\imperia.local\wp-content\plugins\yml-for-yandex-market-pro/admin/class-y4ymp-metaboxes.php',
+'Y4YMP_Interface_Hoocked' => 'D:\OSPanel\home\imperia.local\wp-content\plugins\yml-for-yandex-market-pro/admin/class-y4ymp-interface-hoocked.php',
+'Y4YMP_Generation_Hoocked' => 'D:\OSPanel\home\imperia.local\wp-content\plugins\yml-for-yandex-market-pro/admin/class-y4ymp-generation-hoocked.php',];

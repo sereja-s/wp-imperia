@@ -1,0 +1,111 @@
+# =========================================================
+# WORDPRESS CORE CACHE / TEMP
+# =========================================================
+
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backups/
+wp-content/backup-db/
+wp-content/uploads/cache/
+wp-content/uploads/wc-logs/
+wp-content/uploads/woocommerce_uploads/
+wp-content/ai1wm-backups/
+wp-content/updraft/
+wp-content/wflogs/
+wp-content/litespeed/
+wp-content/et-cache/
+wp-content/smush/
+wp-content/webp-express/
+
+# =========================================================
+# LOGS
+# =========================================================
+
+*.log
+debug.log
+error_log
+
+# =========================================================
+# SYSTEM FILES
+# =========================================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================================================
+# IDE
+# =========================================================
+
+.vscode/
+.idea/
+
+# =========================================================
+# NODE / COMPOSER
+# =========================================================
+
+node_modules/
+vendor/
+
+# =========================================================
+# ENV
+# =========================================================
+
+.env
+.env.local
+
+# =========================================================
+# DATABASE EXPORTS
+# =========================================================
+
+*.sql
+*.gz
+*.zip
+*.tar
+*.rar
+*.7z
+
+# =========================================================
+# GENERATED IMAGE SIZES (VERY IMPORTANT)
+# =========================================================
+
+*-150x150.*
+*-300x300.*
+*-768x768.*
+*-1024x1024.*
+*-1536x1536.*
+*-2048x2048.*
+
+*-scaled.*
+
+# WebP thumbnails
+*-150x150.webp
+*-300x300.webp
+*-768x768.webp
+*-1024x1024.webp
+
+# AVIF thumbnails
+*-150x150.avif
+*-300x300.avif
+
+# =========================================================
+# ELEMENTOR CACHE
+# =========================================================
+
+wp-content/uploads/elementor/css/
+wp-content/uploads/elementor/tmp/
+
+# =========================================================
+# WOOCOMMERCE TEMP
+# =========================================================
+
+wp-content/uploads/wc-logs/
+wp-content/uploads/woocommerce-placeholder.png
+
+# =========================================================
+# DO NOT IGNORE ORIGINAL MEDIA
+# =========================================================
+# Original uploads remain tracked intentionally
+# Example:
+# image.jpg  -> tracked
+# image-300x300.jpg -> ignored

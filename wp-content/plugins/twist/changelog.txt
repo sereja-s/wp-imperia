@@ -1,0 +1,17 @@
+<p><strong>v3.1 – 25 Sep 20</strong></p>
+<ul>
+<li>Enhancement: Add Backup settings option</li>
+<li>Enhancement: Add 'gallery_slider_zoom_image_size' filter for change Zoom Image src</li>
+<li>Fix: Zoom image src not pull large image size</li>
+<li>Fix: Fatal Error on update to version 3.x</li>
+<li>Fix: WooCommerce Photoswipe conflict</li>
+<li>Fix: Speed adjustment for slider</li>
+</ul>
+</p>
+
+
+<p><strong>v3.1 – 25 Sep 20</strong></p>
+<ul>
+<li></li>
+</ul>
+</p>
